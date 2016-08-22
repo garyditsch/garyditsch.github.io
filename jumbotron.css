@@ -4,6 +4,24 @@ body {
   padding-bottom: 20px;
 }
 
+/*added by bb*/
+.booty ul {
+	text-decoration: none;
+	background-color: grey;
+}
+
+li {
+	float: left;
+	padding: 10px;
+	list-style-type: none;
+	text-align: center;
+}
+
+.tube {
+	margin: auto;
+}
+/* end additions */
+
 .intro {
 	width:100%;
 	position:relative;	
