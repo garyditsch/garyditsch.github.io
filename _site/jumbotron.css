@@ -67,6 +67,10 @@ body {
     color: #9d9d9d;
  }
 
+ .footer-space {
+ 	padding-bottom: 100px;
+ }
+
  .main-footer {
     postion: relative;
     float: left;
