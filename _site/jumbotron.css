@@ -1,7 +1,7 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
-  padding-bottom: 0px;
+  /*padding-bottom: 70px;*/
 }
 
 .intro {
@@ -57,43 +57,3 @@ body {
 	color: #fff;
 	text-shadow: -1px 1px 1px #000;
 }
-
-/* Footer Fixed */
-
-.navbar-fixed-bottom {
-    background-color: #222;
-    border-top: 1px solid #080808;
-    padding: 15px 25px;
-    color: #9d9d9d;
- }
-
- .footer-space {
- 	padding-bottom: 100px;
- }
-
- .main-footer {
-    postion: relative;
-    float: left;
-    width: 100vw;
-    font-size: 30px;
- }
-
- .main-footer-content {
- 	width: 0 auto;
- }
-
- .main-footer-content ul {
- 	width: 300px;
- }
-
- .secondary-footer {
-    position: relative;
-    float: left;
-    width: 100vw;
-    font-size: 14px;
-    color: #fff;
- }
-
-
-
-
