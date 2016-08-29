@@ -1,11 +1,11 @@
 {% include header.html %}
 
-<div class="post">
+<div class="postWrapper">
       <div class="row">
-        <div class="col-md-6 col-md-offset-3" >
-        <h3>{{ page.title }} </h3>
-        <strong>{{ page.date | date: "%b %d, %Y" }}</strong>
-        <p> ---- </p>
+        <div class="col-md-8 col-md-offset-2 " >
+	        <h3>{{ page.title }} </h3>
+	        <strong>{{ page.date | date: "%b %d, %Y" }}</strong>
+	        <p> ---- </p>
         
             {{ content }}
 		</div>
