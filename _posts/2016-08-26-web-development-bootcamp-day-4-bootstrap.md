@@ -2,6 +2,7 @@
 layout: post
 title: Web Development Bootcamp - Day 4 - Bootstrap
 date: 2016-08-25
+category: bootcamp
 
 ---
 

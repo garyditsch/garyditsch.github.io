@@ -2,6 +2,7 @@
 layout: post
 title: Web Development Bootcamp - Day 2
 date: 2016-08-24 07:57:31.000000000 -04:00
+category: bootcamp
 
 ---
 
