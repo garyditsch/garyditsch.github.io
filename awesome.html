@@ -5,41 +5,25 @@ title: Awesome
 ---
 
 
-<!-- Content: Bootcamp -->
-
-  <div class="row">
-    <div class="col-md-8 col-md-offset-2" >
-    <h4>All things... bootcamp: </h4>
-    <table class="table table-striped">
-           <tr>
-              <th>
-              Date:
-              </th>
-              <th>
-              Category:
-              </th>
-              <th>
-              Post:
-              </th>
-            </tr> 
-
-        {% for post in site.categories.bootcamp %}
-            <tr>
-              <td>
-              {{ post.date | date: "%b %d, %Y" }}
-              </td>
-              <td>
-              {{ post.category }}
-              </td>
-              <td>
-              <a href="{{post.url}}"> {{ post.title }}</a>
-              </td>
-            </tr> 
-		{% endfor %}
-    </table>
-  	</div>
-  </div>
+<!-- Content: Blog -->
 
 
+<div class="row">
+    <h3>All posts things <i>Bootcamp</i>: </h3>
+    {% for post in site.posts %}
+    <div class="col-sm-6 col-md-4">
+            <table class="table table-striped">
+              <tr>
+                  <td height="75px">
+                  {{ post.date | date: "%b %d, %Y" }}
+                  </td>
+                  <td>
+                  <a href="{{post.url}}"> {{ post.title }}</a>
+                  </td>
+               </tr> 
+            </table>
+    </div>
+     {% endfor %}
+</div>
 
 <!-- End Content -->
