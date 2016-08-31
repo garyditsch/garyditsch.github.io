@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Awesome
-
+title: Bootcamp
 ---
 
 
@@ -11,6 +10,7 @@ title: Awesome
 <div class="row">
     <h3>All posts things <i>Bootcamp</i>: </h3>
     {% for post in site.posts %}
+        {% if post.categories contains 'bootcamp' %}
     <div class="col-sm-6 col-md-4">
             <table class="table table-striped">
               <tr>
@@ -23,6 +23,7 @@ title: Awesome
                </tr> 
             </table>
     </div>
+          {% endif %}
      {% endfor %}
 </div>
 
