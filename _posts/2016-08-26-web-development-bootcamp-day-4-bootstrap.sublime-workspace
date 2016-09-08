@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"national_titles"
+			],
+			[
+				"training",
+				"training_option"
+			],
+			[
+				"day",
+				"day"
+			],
+			[
+				"play",
+				"play_football"
+			],
+			[
+				"displa",
+				"display_focus"
+			],
+			[
+				"di",
+				"display_focus"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"disp",
+				"display_focus"
+			],
+			[
+				"display",
+				"display"
+			],
+			[
+				"men",
+				"menu_items"
+			],
+			[
+				"week",
+				"weekday"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"abb",
+				"abbrev"
+			],
+			[
+				"w",
+				"weekday"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"play_",
+				"play_rest"
+			],
+			[
+				"D",
+				"DAILY_FOCUS"
+			],
+			[
+				"sorted",
+				"sortedX"
+			],
+			[
+				"total",
+				"totalRevenue"
+			],
+			[
+				"tot",
+				"totalCost"
+			],
+			[
+				"oder",
+				"order_file"
+			],
+			[
+				"topping",
+				"toppings"
+			],
+			[
+				"Topping",
+				"Topping"
+			],
+			[
+				"get",
+				"get_menu_selection"
+			],
+			[
+				"guess",
+				"guesses"
+			],
+			[
+				"need",
+				"needed_guesses"
+			],
+			[
+				"pi",
+				"pizza"
+			],
+			[
+				"dis",
+				"display_selection_error"
+			],
+			[
+				"topp",
+				"toppings"
+			],
+			[
+				"get_to",
+				"get_toppings_menu_list"
+			],
+			[
+				"base",
+				"base_price"
+			],
+			[
+				"pizza",
+				"pizza"
+			],
+			[
+				"A",
+				"AVAILABLE_TOPPINGS"
+			],
+			[
+				"is",
+				"isdigit"
+			],
+			[
+				"selec",
+				"selection"
+			],
+			[
+				"To",
+				"TOPPING"
+			],
+			[
+				"add",
+				"add_pizza"
+			],
+			[
+				"Me",
+				"MENU_ITEMS"
+			],
+			[
+				"me",
+				"menu_selection"
+			],
+			[
+				"min",
+				"menu_items"
+			],
+			[
+				"husk",
+				"husker_rankings"
+			],
+			[
+				"new",
+				"new_str"
+			],
+			[
+				"rev",
+				"reverse_example"
+			],
+			[
+				"re",
+				"reversed"
+			],
+			[
+				"reversed",
+				"reversed_example"
+			],
+			[
+				"pizz",
+				"pizzas"
+			],
+			[
+				"displ",
+				"display_invalid_option"
+			],
+			[
+				"order",
+				"order_pizza"
+			],
+			[
+				"pizzas",
+				"pizzas"
+			],
+			[
+				"P",
+				"PIZZAS"
+			],
+			[
+				"mentu",
+				"menu_selection"
+			],
+			[
+				"menu_",
+				"menu_selection"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"current",
+				"current_file"
+			],
+			[
+				"curr",
+				"current_line"
+			],
+			[
+				"cur",
+				"current_line"
+			],
+			[
+				"los",
+				"loser_score"
+			],
+			[
+				"amou",
+				"amount_of_crackers"
+			],
+			[
+				"chee",
+				"cheese_and_crackers"
+			],
+			[
+				"che",
+				"cheese_and_crackers"
+			],
+			[
+				"box",
+				"boxes_of_crackers"
+			],
+			[
+				"in",
+				"in_file"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"tabb",
+				"tabby_cat"
+			],
+			[
+				"for",
+				"formatter"
+			],
+			[
+				"car",
+				"carpool_capacity"
+			],
+			[
+				"cars",
+				"cars_not_driven"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/G/Documents/Bootcamp/cfb_class.py",
+		"/Users/G/Documents/Bootcamp/learnPython/hard_way/ex39_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/hard_way/ex40_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/hard_way/oop_test.py",
+		"/Users/G/Documents/Bootcamp/learnPython/hard_way/ex43_py.py",
+		"/Users/G/Documents/Bootcamp/text-adventure/game-description.md",
+		"/Users/G/Documents/Bootcamp/text-adventure/game.py",
+		"/Users/G/Documents/Bootcamp/text-adventure/daily_focus.py",
+		"/Users/G/Documents/Bootcamp/text-adventure/game-implementation.md",
+		"/Users/G/Documents/Bootcamp/text-adventure/game-implementation",
+		"/Users/G/Documents/Bootcamp/text-adventure/dailyFocus.py",
+		"/Users/G/Documents/Bootcamp/text-adventure/game-description",
+		"/Users/G/Desktop/untitled",
+		"/Users/G/Documents/Bootcamp/json_loading_exercise/text-adventure/game-description",
+		"/Users/G/Documents/Bootcamp/orderApp/awesome-pizza-order-app/menus.py",
+		"/Users/G/Documents/Bootcamp/orderApp/awesome-pizza-order-app/toppings.py",
+		"/Users/G/Documents/Bootcamp/orderApp/awesome-pizza-order-app/pizzas.py",
+		"/Users/G/Documents/Bootcamp/orderApp/awesome-pizza-order-app/orders.py",
+		"/Users/G/Documents/Bootcamp/orderApp/awesome-pizza-order-app/custom_order.py",
+		"/Users/G/Documents/Bootcamp/guessing_game/guessing_game_two.py",
+		"/Users/G/Documents/Bootcamp/guessing_game/cfb_class.py",
+		"/Users/G/Documents/Bootcamp/guessing_game/guessing_game.py",
+		"/Users/G/Documents/Bootcamp/personal-site/awesome.html",
+		"/Users/G/Documents/Bootcamp/personal-site/blog.html",
+		"/Users/G/Documents/Bootcamp/personal-site/_includes/header.html",
+		"/Users/G/Documents/Bootcamp/personal-site/index.html",
+		"/Users/G/Documents/Bootcamp/personal-site/_posts/2016-08-26-test.md",
+		"/Users/G/Documents/Bootcamp/personal-site/_layouts/post.html",
+		"/Users/G/Documents/Bootcamp/personal-site/bootcamp.html",
+		"/Users/G/Documents/Bootcamp/personal-site/_posts/2016-08-24-web-development-bootcamp-day-2.md",
+		"/Users/G/Documents/Bootcamp/personal-site/_posts/2016-08-23-web-development-bootcamp-day-1.html",
+		"/Users/G/Documents/Bootcamp/personal-site/_posts/2016-08-17-my-perspective-as-i-begin-12-weeks-of-development-bootcamp.html",
+		"/Users/G/Documents/Bootcamp/learnPython/python_functions/python-examples/gary_ditsch.py",
+		"/Users/G/Documents/Bootcamp/orderApp/awesome-pizza-order-app/order_pizza.py",
+		"/Users/G/Documents/Bootcamp/personal-site/_posts/2016-08-26-web-development-bootcamp-day-4-bootstrap.md",
+		"/Users/G/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/G/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/G/Documents/Bootcamp/learnPython/ex25_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex26_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex21_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex19_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex20_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex18_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex17_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex16_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex15_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/new.txt",
+		"/Users/G/Documents/Bootcamp/learnPython/ex15_sample.txt",
+		"/Users/G/Documents/Bootcamp/learnPython/ex14_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex13_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex9_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex10_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex11_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex12_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex7_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex8_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex6_py.py",
+		"/Users/G/Documents/Bootcamp/awesome-pizza-website/_data/pizzas.json",
+		"/Users/G/Documents/Bootcamp/awesome-pizza-website/menu.html",
+		"/Users/G/Documents/Bootcamp/awesome-pizza-website/_data/pizza.json",
+		"/Users/G/Documents/Bootcamp/learnPython/ex5_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex4_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex3b_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex3_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex2_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex1_py.py",
+		"/Users/G/Documents/Bootcamp/learnPython/ex1.py",
+		"/Users/G/Documents/Bootcamp/learnPython/untitled",
+		"/Users/G/Documents/Bootcamp/personal-site/_posts/2016-08-24-web-development-bootcamp-day-2.html",
+		"/Users/G/Documents/Bootcamp/personal-site/about.html",
+		"/Users/G/Documents/Bootcamp/personal-site/dist/css/custom.css",
+		"/Users/G/Documents/Bootcamp/personal-site/_layouts/page.html",
+		"/Users/G/Documents/Bootcamp/personal-site/_layouts/home.html",
+		"/Users/G/Documents/Bootcamp/personal-site/jumbotron1.css",
+		"/Users/G/Documents/Development/awesome-pizza-website/_includes/header.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/styles.css",
+		"/Users/G/Documents/Development/awesome-pizza-website/location.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/blog.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/_layouts/page2.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/about.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/index.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/menu.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/_includes/footer.html",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-26-web-development-bootcamp-day-4-bootstrap.md",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-26-web-development-bootcamp-day-4-bootstrap.html",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-26.html",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-24-web-development-bootcamp-day-2.html",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-23-web-development-bootcamp-day-1.html",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-17-my-perspective-as-i-begin-12-weeks-of-development-bootcamp.html",
+		"/Users/G/Documents/Development/personal-site/dist/css/custom.css",
+		"/Users/G/Documents/Development/personal-site/_includes/footer.html",
+		"/Users/G/Documents/Development/personal-site/_layouts/post.html",
+		"/Users/G/Documents/Development/personal-site/about.html",
+		"/Users/G/Documents/Development/personal-site/jumbotron.css",
+		"/Users/G/Documents/Development/personal-site/_includes/header.html",
+		"/Users/G/Documents/Development/personal-site/_layouts/page.html",
+		"/Users/G/Documents/Development/Challenges/index.hml",
+		"/Users/G/Documents/webDevProjects/CKGP_web/gp-web/templates/home2.html",
+		"/Users/G/Documents/Development/personal-site/blog.html",
+		"/Users/G/Documents/Development/personal-site/_config.yml",
+		"/Users/G/Documents/Development/personal-site/.gitignore",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-23-testing-post.md",
+		"/Users/G/Documents/Development/personal-site/_posts/2016-08-24-testing-post.md",
+		"/Users/G/Documents/Development/personal-site/index.html",
+		"/Users/G/Documents/Development/personal-site/_layouts/_page.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/_posts/2016-08-23-new-pizza-introduced-today.md",
+		"/Users/G/Documents/Development/awesome-pizza-website/_posts/2016-08-24-announcing-the-awesome-news.md",
+		"/Users/G/Documents/Development/awesome-pizza-website/_config.yml",
+		"/Users/G/Documents/Development/awesome-pizza-website/_layouts/page.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/.gitignore",
+		"/Users/G/Documents/Development/awesome-pizza-website/order.html",
+		"/Users/G/Documents/Development/pizza-blog/css/styles.css",
+		"/Users/G/Documents/Development/pizza-blog/_layouts/post.html",
+		"/Users/G/Documents/Development/pizza-blog/_layouts/default.html",
+		"/Users/G/Documents/Development/pizza-blog/_config.yml",
+		"/Users/G/Documents/Development/pizza-blog/index.html",
+		"/Users/G/Documents/Development/pizza-blog/about.md",
+		"/Users/G/Documents/Development/pizza-blog/_posts/2016-08-23-our-new-awesome-pizza.md",
+		"/Users/G/Dropbox/A_AwesomeBootcamp/PreWork/challenge_1/about.html",
+		"/Users/G/Dropbox/A_AwesomeBootcamp/PreWork/challenge_1/jumbotron.css",
+		"/Users/G/Documents/Development/billbunkum.github.io/about.html",
+		"/Users/G/Documents/Development/awesome-pizza-website/WIP_menu.html",
+		"/Users/G/Dropbox/A - AwesomeBootcamp/DayOneChallenges",
+		"/Users/G/Dropbox/AwesomeBootcamp/ChallengeFour.txt",
+		"/Users/G/Documents/webDevProjects/CKGP_web/gp-web/checkin/models.py",
+		"/Users/G/Dropbox/AwesomeBootcamp/ChallengeThree.txt",
+		"/Users/G/Dropbox/AwesomeBootcamp/Challenge Three",
+		"/Users/G/Dropbox/AwesomeBootcamp/challenge_1/custom.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"day",
+			"menu_items",
+			"get_menu_selection",
+			"MENU_ITEMS",
+			"needed_guesses",
+			"total_price",
+			"topping",
+			"               ",
+			"head",
+			">",
+			"image",
+			"hello",
+			"Advertising",
+			"contact",
+			"Contact",
+			"<div class=\"views-row views-row-",
+			"<div class=\"views-field-body\">",
+			"<span class=\"field-content\">",
+			"<div class=\"views-field-title\">",
+			"index",
+			"Home",
+			"jumbotron",
+			"font",
+			"about",
+			"intro"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.get_guesses",
+			"order",
+			" Order",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "2016-08-26-web-development-bootcamp-day-4-bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
