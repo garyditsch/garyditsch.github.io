@@ -4,6 +4,11 @@ body {
   /*padding-bottom: 70px;*/
 }
 
+.portfolio-image {
+	background-color: #ddd;
+	padding: 5px;
+}
+
 .intro {
 	width:100%;
 	position:relative;	
