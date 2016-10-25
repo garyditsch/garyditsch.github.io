@@ -19,10 +19,10 @@ So, the question may be asked: was the extra time and effort worth it? I think i
 Some helpful links: 
 
 
-- [materialdesigncss] [materialdesign] 
+- [materializecss] [materialize] 
 - [Atlassian article on Agile Estimation] [atlassian-article]
 
 
 
-[materialdesign]: http://materializecss.com/getting-started.html
+[materialize]: http://materializecss.com/getting-started.html
 [atlassian-article]: https://www.atlassian.com/agile/estimation
