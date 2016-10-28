@@ -6,7 +6,7 @@ category: bootcamp
 
 ---
 
-The past two days have been a real life experience of the tortoise and the hare. The are moments when I am making a lot of progress, ticking off user story tasks and seeing visible improvements to the application. Then there are periods that a problem comes up that brings that progress to a halt. In those moments, I try to find comfort by reminding myself that I often excel when it comes to activities that are 'long and steady'. This is true in the physical challenges I take on (such as the marathon or Ironman), but also in daily behavior and productivity. I keep telling myself to 'Make progress daily'. 
+The past two days have been a real life experience of the tortoise and the hare. There are moments when I am making a lot of progress, ticking off user story tasks and seeing visible improvements to the application. Then there are periods that a problem comes up that brings that progress to a halt. In those moments, I try to find comfort by reminding myself that I often excel when it comes to activities that are 'long and steady'. This is true in the physical challenges I take on (such as the marathon or Ironman), but also in daily behavior and productivity. I keep telling myself to 'Make progress daily'. 
 
 (Watch the story of the [tortoise and the hare][tortise-hare] on youtube.)
 
